@@ -4,7 +4,6 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-<<<<<<< HEAD
   - name: Instagram
     pre: brands/instagram
     url: https://www.instagram.com/
@@ -12,10 +11,6 @@ main:
   - name: Spotify
     url: https://www.spotify.com/
     pre: custom/spotify-brands-solid
-=======
-  - name: Tour
-    url: /
->>>>>>> 40b49a368f8ee4cf2f5475c11bacbf5f42e576d4
     weight: 10
   - name: Papers
     url: /#papers
