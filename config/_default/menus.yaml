@@ -4,14 +4,15 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Instagram
-    pre: brands/instagram
-    url: https://www.instagram.com/
-    weight: 5
-  - name: Spotify
-    url: https://www.spotify.com/
-    pre: custom/spotify-brands-solid
-    weight: 10
+#  LOGO EXAMPLES IF NEEDED IN THE MENU
+#  - name: Instagram
+#    pre: brands/instagram
+#    url: https://www.instagram.com/
+#    weight: 5
+#  - name: Spotify
+#    url: https://www.spotify.com/
+#    pre: custom/spotify-brands-solid
+#    weight: 10
   - name: Papers
     url: /#papers
     weight: 20
