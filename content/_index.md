@@ -13,7 +13,7 @@ design:
 sections:
   - block: markdown
     content:
-      title: '[{{< icon name="brands/instagram" >}}](https://www.instagram.com/tearsofsaturnband)&nbsp;[{{< icon name="custom/soundcloud" >}}](https://www.instagram.com)&nbsp;[{{< icon name="custom/bandcamp-round" >}}](https://www.instagram.com)&nbsp;[{{< icon name="custom/spotify-brands-solid" >}}](https://www.instagram.com)&nbsp;[{{< icon name="custom/apple" >}}](https://www.instagram.com)&nbsp;[{{< icon name="brands/youtube" >}}](https://www.youtube.com)'
+      title: '[{{< icon name="brands/instagram" >}}](https://www.instagram.com/tearsofsaturnband)&nbsp;[{{< icon name="custom/soundcloud" >}}](https://soundcloud.com/tears-of-saturn)&nbsp;[{{< icon name="custom/bandcamp-round" >}}](https://tearsofsaturn.bandcamp.com/)&nbsp;[{{< icon name="custom/spotify-brands-solid" >}}]()&nbsp;[{{< icon name="custom/apple" >}}]()&nbsp;[{{< icon name="brands/youtube" >}}]()'
       subtitle: 'Tears of Saturn'
       text: |-
         ![alt text](tos_small.png)
