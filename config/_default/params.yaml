@@ -6,12 +6,12 @@
 # Appearance
 appearance:
   mode: dark
-  color: tos
+  color: purple
 
 # SEO
 marketing:
   seo:
-    site_type: Person
+    site_type: PerformingGroup
     local_business_type: ''
     org_name: ''
     description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
@@ -32,15 +32,13 @@ header:
     enable: true
     blox: "navbar"
     fixed_to_top: true
-    show_search: true
-    show_theme_chooser: true
-    logo:
-      text: "♄☉"
+    show_search: false
+    show_theme_chooser: false
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Tears of Saturn'
     license:
       enable: true
       allow_derivatives: false

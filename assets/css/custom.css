@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Gothic&display=swap');
+
+:root {
+    --main-font-family: "Noto Sans Gothic", serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+    --heading-font-family: "Noto Sans Gothic", serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+}
+
+
+body {
+    font-family: var(--main-font-family) !important;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: var(--heading-font-family)
+}
+
+.header {
+    background-color: black;
+}
+
+.navbar {
+    font-family: var(--heading-font-family);
+    background-color: black;
+}
+
+.portrait-title {
+    font-family: var(--heading-font-family) !important;
+}
+
+/*Article body and Sections*/
+
+.section-subheading {
+    font-family: var(--heading-font-family)
+}
+
+.home-section-bg {
+    background-color: black;
+}
+
+:is(.dark #site-header.header) {
+    --tw-bg-opacity: 1;
+    background-color: rgb(00 00 00/var(--tw-bg-opacity));
+}
+
+.page-body {
+    background-color: black;
+}
+
+.page-footer {
+    background-color: black;
+}
+
